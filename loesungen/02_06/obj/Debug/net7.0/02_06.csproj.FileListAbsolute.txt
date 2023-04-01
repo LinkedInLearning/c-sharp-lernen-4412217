@@ -1,0 +1,15 @@
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/bin/Debug/net7.0/02_06
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/bin/Debug/net7.0/02_06.deps.json
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/bin/Debug/net7.0/02_06.runtimeconfig.json
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/bin/Debug/net7.0/02_06.dll
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/bin/Debug/net7.0/02_06.pdb
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/02_06.csproj.AssemblyReference.cache
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/02_06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/02_06.AssemblyInfoInputs.cache
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/02_06.AssemblyInfo.cs
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/02_06.csproj.CoreCompileInputs.cache
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/02_06.dll
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/refint/02_06.dll
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/02_06.pdb
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/02_06.genruntimeconfig.cache
+/Users/martinakraus/LinkedIn/CSharp_lernen/c-sharp-lernen-4412217/loesungen/02_06/obj/Debug/net7.0/ref/02_06.dll
