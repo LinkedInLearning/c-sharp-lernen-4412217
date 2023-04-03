@@ -2,9 +2,9 @@
 {
   for (int i = 0; i < toSort.Length; i++)
   {
-    for (int j = 0; j < toSort.Length - 1 - i; j++)
+    for (int j = 0; j < toSort.Length - 1; j++)
     {
-      if (toSort[j] < toSort[j + 1])
+      if (toSort[j] > toSort[j + 1])
       {
         int tmp = toSort[j];
         toSort[j] = toSort[j + 1];
