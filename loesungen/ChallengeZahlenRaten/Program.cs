@@ -1,9 +1,10 @@
-﻿int theNumber = new Random().Next(20);
+int theNumber = new Random().Next(20);
 bool keepGoing = true;
 
-Console.WriteLine("Lass uns das Spiel 'Zahlen raten' spielen!");
+Console.WriteLine("Lass uns 'Zahlen raten' spielen.");
 Console.WriteLine("Ich denke mir eine Zahl zwischen 0 und 20 aus.");
-Console.WriteLine("Versuche meine Zahl zu erraten, oder tippe -1 um das Spiel zu beenden.");
+Console.WriteLine("Schreibe deine Zahl in die Konsole, oder -1 um es zu beenden.");
+
 
 int guessNum = 0;
 int guessCount = 0;
@@ -19,7 +20,7 @@ while (keepGoing)
   {
 
 
-    Console.WriteLine("Oh well. I was thinking of " + theNumber);
+    Console.WriteLine("Oh schade. Ich habe an die Zahl " + theNumber + " gedacht.");
     keepGoing = false;
   }
   else
@@ -27,7 +28,7 @@ while (keepGoing)
     guessCount++;
     if (guessNum == theNumber)
     {
-      Console.WriteLine("You got it in " + guessCount + " guesses!!");
+      Console.WriteLine("Hurra, Du hast es mit " + guessCount + " Versuchen erraten!!");
       keepGoing = false;
     }
     else
