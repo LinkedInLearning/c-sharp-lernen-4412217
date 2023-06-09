@@ -10,7 +10,7 @@ Zu jeder Aufgabe erhalten Sie auch die passende Lösung, doch können Sie auch I
 
 ## Anleitung
 
-Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen `/tree/BRANCH_NAME` der URL hinzu um direkt in den gewünschten Branch zu wechseln.
+Dieses Repository hat zwei Ordner für die Übungsdateien. Im Ordner `src´ finden Sie die Ausgangsdateien und im Ordner ´loesungen´ sind beispielhaft die Lösungen zur Problemstellung aufgeführt. 
 
 ## Nutzung
 
